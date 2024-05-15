@@ -11,7 +11,7 @@ litera = 'a'
 
 # cum afisam mesaje in consola cu ajutorul print()
 print("Salut, tututor!") #pentru text
-print(numar) #pentru variabile, se va afisa valoare lui numar adica 10
+print(numar) #pentru variabile de tip numar, se va afisa valoare lui numar adica 10
 
 varsta = 20 #pentru a printa valoarea variabilei varsta trebuie inainte sa ii dati o valoare
 print(varsta)
