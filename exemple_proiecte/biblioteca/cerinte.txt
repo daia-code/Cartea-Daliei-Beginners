@@ -1,0 +1,17 @@
+Proiect Final: Sistem de Gestiune a Bibliotecii
+Cerință:
+Scrie un program în Python care să gestioneze o bibliotecă. Programul trebuie să permită adăugarea de cărți, afișarea listei de cărți disponibile și căutarea unei cărți după titlu. Programul trebuie să salveze și să încarce datele despre cărți dintr-un fișier.
+
+Cerințe detaliate:
+Structura fișierului:
+
+Fiecare carte trebuie să aibă un titlu, un autor și un an de publicare.
+Datele despre cărți trebuie să fie salvate într-un fișier text (biblioteca.txt).
+Funcționalități:
+
+Adăugarea unei cărți: Utilizatorul introduce titlul, autorul și anul de publicare. Programul adaugă aceste informații în fișier.
+Afișarea cărților: Programul citește toate cărțile din fișier și le afișează pe ecran.
+Căutarea unei cărți: Utilizatorul introduce un titlu, iar programul caută în fișier și afișează informațiile despre cartea respectivă dacă o găsește.
+Interfața:
+
+Programul trebuie să aibă un meniu care să permită utilizatorului să aleagă dintre cele trei funcționalități.
