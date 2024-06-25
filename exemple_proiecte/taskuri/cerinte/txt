@@ -1,0 +1,15 @@
+Aplicație Simplă de Gestionare a Sarcinilor
+
+Cerințe:
+Organizare: Folosiți module pentru a organiza codul în fișiere separate.
+  
+Funcționalități:
+Adăugarea unei sarcini
+Afișarea sarcinilor
+Ștergerea unei sarcini
+
+Interfață:
+Utilizatorii interacționează cu aplicația printr-un meniu în terminal.
+Structura Proiectului:
+main.py: Scriptul principal care rulează aplicația.
+task_manager.py: Modul pentru logica aplicației de gestionare a sarcinilor.
