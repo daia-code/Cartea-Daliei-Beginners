@@ -1,0 +1,5 @@
+Proiect Final: Jocul "X și 0" (Tic Tac Toe)
+Structura Proiectului:
+main.py: Scriptul principal care rulează jocul.
+board.py: Modul pentru gestionarea tablei de joc.
+game.py: Modul pentru logica jocului.
